@@ -35,7 +35,7 @@ jobs:
           # 未設定 cache: 'npm'，避免因缺少 package-lock.json 導致流程中斷
 
       - name: Install dependencies
-        run: npm install
+        run: npm install --legacy-peer-deps
 
       - name: Build project
         run: npm run build

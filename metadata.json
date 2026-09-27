@@ -1,0 +1,6 @@
+{
+  "name": "寶可夢：屬性相剋大冒險 (1996 Retro)",
+  "description": "重現 1996 年 Game Boy 經典掌機風格的寶可夢屬性相剋冒險遊戲，具備 8-Bit 復古晶片音效、完整關卡相剋戰鬥與名人堂登錄。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
